@@ -1,0 +1,5 @@
+radar_fit_teaser:
+    resource: "@RadarFitTeaserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
